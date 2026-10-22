@@ -9,7 +9,6 @@ A one-page site for Haven Sitters: plain HTML, CSS and a little JavaScript, with
 - `logo.png`, `nahli.jpg` and `bianca.jpg` are the images
 
 ## To do
-- Replace `YOUR-LINK` in `index.html` with the Calendly link (it appears 3 times)
 - Replace `bianca.jpg` with Bianca's photo, using the same file name
 - When the sitter Google Form is ready, swap the `mailto:` link in the "Join" section
 
